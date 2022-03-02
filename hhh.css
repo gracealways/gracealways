@@ -1,0 +1,44 @@
+.container1{
+    margin: 150px auto;
+    width: 100%;
+    padding: 8px;
+    flex-direction: row;
+}
+summary.color1
+    {
+    color:rgb(0, 76, 139)    
+    }
+
+    summary.color2 {
+     color: rgb(60, 72, 179);   
+    }
+
+    body{
+        font-family: inherit;
+        font-size: large;
+     }
+
+     .footer1{
+         height: 250px;
+         width: 100px;
+         background-color: darkblue;
+         color: rgb(255, 255, 255);
+         text-align: inherit;
+         padding: 0%;
+    
+     }
+
+     .footer2{
+         height: 60px;
+         width: 100%px;
+         background-color: olive;
+         text-align: center;
+         text-decoration: solid;
+         padding-bottom: 0%;
+     }
+  
+     .img1{
+         float: left;
+         padding-right: 10px;
+         flex-wrap: wrap;
+     }
